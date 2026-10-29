@@ -1,12 +1,41 @@
+<!--
+    Hey there, I'm Yash Sahu!
+    Happy to see you here exploring my GitHub profile.
+    Feel free to explore my repositories, systems architectures, and open source work.
+-->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:38bdf8&height=140&section=header" alt="header"/>
+
 <div align="center">
-  <img src="assets/header.svg" alt="Yash Sahu - Software Engineer" width="100%">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=38BDF8&center=true&vCenter=true&width=580&lines=Hi%2C+I'm+Yash+Sahu+%F0%9F%91%8B;Full-Stack+%26+Systems+Engineer;Building+High-Concurrency+Engines;Computer+Science+%40+VIT+Bhopal" alt="Yash Sahu - Engineering Focus" />
+  </a>
 </div>
 
-## Engineering Overview
+<br>
 
-I engineer resilient full-stack systems, real-time concurrency engines, and mobile telemetry pipelines. Currently pursuing Computer Science and Engineering at VIT Bhopal University, my work emphasizes strict type safety, deterministic state synchronization, and systems that operate reliably under concurrent user workloads.
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
 
-## Featured Systems &amp; Architectures
+<div align="center">
+  <img src="assets/terminal.svg" alt="About Yash Sahu Terminal Session" width="100%"/>
+</div>
+
+<br>
+
+### ⚡ Core Technologies &amp; Languages
+[![My Skills](https://skillicons.dev/icons?i=ts,js,kotlin,py,cpp,c,postgres,mongodb,mysql,nodejs,express,react,html,css,tailwind)](https://skillicons.dev)
+
+### 🛠️ Systems, DevOps &amp; Tooling
+[![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,bash,androidstudio,postman,vscode)](https://skillicons.dev)
+
+### 🔭 Currently Deepening &amp; Exploring
+[![Exploring](https://skillicons.dev/icons?i=rust,go,redis,kafka,aws,graphql)](https://skillicons.dev)
+
+<br>
+
+### 🚀 Featured Systems &amp; Architectures
 
 <table>
   <tr>
@@ -51,72 +80,60 @@ I engineer resilient full-stack systems, real-time concurrency engines, and mobi
   </tr>
 </table>
 
-## Technical Arsenal
+<br>
 
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <b>LANGUAGES</b><br><br>
-      <code>TypeScript</code><br>
-      <code>JavaScript (ES6+)</code><br>
-      <code>Kotlin</code><br>
-      <code>Python</code><br>
-      <code>SQL / PLpgSQL</code><br>
-      <code>HTML5 / CSS3</code>
-    </td>
-    <td width="25%" valign="top">
-      <b>BACKEND &amp; SYSTEMS</b><br><br>
-      <code>Node.js</code><br>
-      <code>Express.js</code><br>
-      <code>WebSockets (Live Bids)</code><br>
-      <code>RESTful APIs</code><br>
-      <code>Concurrent State</code><br>
-      <code>Microservices</code>
-    </td>
-    <td width="25%" valign="top">
-      <b>DATA &amp; ARCHITECTURE</b><br><br>
-      <code>PostgreSQL</code><br>
-      <code>Relational Modeling</code><br>
-      <code>Database Transactions</code><br>
-      <code>Sensor Telemetry Fusion</code><br>
-      <code>State Machines</code><br>
-      <code>NLP &amp; AI Integration</code>
-    </td>
-    <td width="25%" valign="top">
-      <b>TOOLING &amp; OPS</b><br><br>
-      <code>Docker Containers</code><br>
-      <code>Git &amp; GitHub CLI</code><br>
-      <code>GitHub Actions CI/CD</code><br>
-      <code>Android Studio</code><br>
-      <code>Linux / Bash Shell</code><br>
-      <code>VS Code Environment</code>
-    </td>
-  </tr>
-</table>
-
-## Telemetry &amp; Verified Specs
-
-<div align="center">
-  <img src="assets/metrics.svg" alt="Engineering Telemetry and System Metrics" width="100%">
+### ✍️ Publications &amp; Technical Writing
+<div>
+  <a href="https://medium.com/@yashsahu0212" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://dev.to/yashsahu0212" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://leetcode.com/u/yashsahu0212" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </div>
 
-## Contribution Timeline
+<p>
+  I write technical breakdowns covering distributed systems, real-time concurrency, and mobile sensor fusion algorithms.
+</p>
+
+<br>
+
+### 🌐 Connect with me!
+<div>
+  <a href="https://www.linkedin.com/in/yashsahu0212/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/yashsahu0212" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:yashsahu0212@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/yashsahu0212/Portfolio-Yash" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<br>
+
+### 💼 Employer or Recruiter?
+> [!IMPORTANT]
+> **Actively exploring Software Engineering Internships and Full-Time Roles.**  
+> 📄 <a href="https://drive.google.com/your-resume-link-here" target="_blank"><b>Download my Resume / CV</b></a> &bull; ✉️ <a href="mailto:yashsahu0212@gmail.com"><b>Direct Email (yashsahu0212@gmail.com)</b></a> &bull; 🤝 <a href="https://www.linkedin.com/in/yashsahu0212/" target="_blank"><b>Connect on LinkedIn</b></a>
+
+<br>
+
+### 📈 Contribution Timeline
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashsahu0212/yashsahu0212/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashsahu0212/yashsahu0212/output/github-snake.svg">
-    <img alt="Contribution Graph Activity" src="assets/github-snake-dark.svg" width="100%">
+    <img alt="Contribution Activity Snake" src="https://raw.githubusercontent.com/yashsahu0212/yashsahu0212/output/github-snake-dark.svg" width="100%">
   </picture>
 </div>
 
-<br>
-
-<div align="center">
-  <sub>
-    ENGINEER: Yash Sahu (<code>@yashsahu0212</code>) &bull; 
-    <a href="https://github.com/yashsahu0212">github.com/yashsahu0212</a> &bull; 
-    VIT Bhopal University &bull; 
-    <a href="https://github.com/yashsahu0212/Portfolio-Yash">Portfolio</a>
-  </sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:38bdf8&height=120&section=footer" alt="footer"/>
