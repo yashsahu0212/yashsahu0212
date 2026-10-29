@@ -1,0 +1,58 @@
+<svg width="920" height="136" viewBox="0 0 920 136" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="System Metrics and Engineering Telemetry">
+  <defs>
+    <linearGradient id="metricBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f141c" />
+      <stop offset="100%" stop-color="#090d12" />
+    </linearGradient>
+    <linearGradient id="metricBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#30363d" />
+      <stop offset="100%" stop-color="#21262d" />
+    </linearGradient>
+    <pattern id="dotPattern" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity="0.03" />
+    </pattern>
+  </defs>
+
+  <!-- Frame -->
+  <rect x="1" y="1" width="918" height="134" rx="10" fill="url(#metricBg)" stroke="url(#metricBorder)" stroke-width="1.5" />
+  <rect x="1" y="1" width="918" height="134" rx="10" fill="url(#dotPattern)" />
+
+  <!-- Quadrant Dividers -->
+  <line x1="230" y1="20" x2="230" y2="116" stroke="#21262d" stroke-width="1" />
+  <line x1="460" y1="20" x2="460" y2="116" stroke="#21262d" stroke-width="1" />
+  <line x1="690" y1="20" x2="690" y2="116" stroke="#21262d" stroke-width="1" />
+
+  <!-- Quadrant 1: Repositories & Systems -->
+  <g transform="translate(32, 28)">
+    <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, monospace" font-size="11" font-weight="600" fill="#7d8590" letter-spacing="1">ENGINEERED REPOS</text>
+    <text x="0" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="34" font-weight="800" fill="#f0f6fc">12+</text>
+    <text x="0" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="12" fill="#8b949e">Public Systems &amp; Tools</text>
+  </g>
+
+  <!-- Quadrant 2: Core Focus Areas -->
+  <g transform="translate(258, 28)">
+    <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, monospace" font-size="11" font-weight="600" fill="#7d8590" letter-spacing="1">PRIMARY FOCUS</text>
+    <text x="0" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="14" font-weight="600" fill="#58a6ff">Full-Stack &amp; Telemetry</text>
+    <text x="0" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="12" fill="#c9d1d9">Real-Time State Engines</text>
+    <text x="0" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="12" fill="#8b949e">Mobile Sensor Chains</text>
+  </g>
+
+  <!-- Quadrant 3: Architecture Standards -->
+  <g transform="translate(488, 28)">
+    <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, monospace" font-size="11" font-weight="600" fill="#7d8590" letter-spacing="1">STANDARDS</text>
+    <text x="0" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="13" font-weight="600" fill="#7ee787">Strict Type Safety</text>
+    <text x="0" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="12" fill="#c9d1d9">Relational Integrity</text>
+    <text x="0" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="12" fill="#8b949e">Sub-Second Bid Latency</text>
+  </g>
+
+  <!-- Quadrant 4: Availability & Velocity -->
+  <g transform="translate(718, 28)">
+    <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, monospace" font-size="11" font-weight="600" fill="#7d8590" letter-spacing="1">STATUS</text>
+    <g transform="translate(0, 16)">
+      <circle cx="6" cy="6" r="4" fill="#3fb950" />
+      <text x="18" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="13" font-weight="600" fill="#f0f6fc">Open to Connect</text>
+    </g>
+    <text x="0" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="12" fill="#8b949e">Software Engineering</text>
+    <text x="0" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="12" fill="#58a6ff">GitHub / Open-Source</text>
+  </g>
+</svg>
