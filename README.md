@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=38BDF8&center=true&vCenter=true&width=580&lines=Hi%2C+I'm+Yash+Sahu+%F0%9F%91%8B;Full-Stack+%26+Systems+Engineer;Building+High-Concurrency+Engines;Computer+Science+%40+VIT+Bhopal" alt="Yash Sahu - Engineering Focus" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=38BDF8&center=true&vCenter=true&width=580&lines=Hi%2C+I'm+Yash+Sahu+%F0%9F%91%8B;Full-Stack+%26+Systems+Developer;Building+Real-Time+%26+Mobile+Systems;Computer+Science+%40+VIT+Bhopal" alt="Yash Sahu - Engineering Focus" />
   </a>
 </div>
 
@@ -24,18 +24,18 @@
 
 <br>
 
-### ⚡ Core Technologies &amp; Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,js,kotlin,py,cpp,c,postgres,mongodb,mysql,nodejs,express,react,html,css,tailwind)](https://skillicons.dev)
+### 💻 Languages
+[![Languages](https://skillicons.dev/icons?i=js,ts,py,kotlin,html,css,postgres)](https://skillicons.dev)
 
-### 🛠️ Systems, DevOps &amp; Tooling
-[![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,bash,androidstudio,postman,vscode)](https://skillicons.dev)
+### ⚛️ Frameworks &amp; Libraries
+[![Frameworks](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,prisma,supabase,vite)](https://skillicons.dev)
 
-### 🔭 Currently Deepening &amp; Exploring
-[![Exploring](https://skillicons.dev/icons?i=rust,go,redis,kafka,aws,graphql)](https://skillicons.dev)
+### 🛠️ Tools &amp; Platforms
+[![Tools](https://skillicons.dev/icons?i=androidstudio,docker,git,github,vscode,postman,vercel)](https://skillicons.dev)
 
 <br>
 
-### 🚀 Featured Systems &amp; Architectures
+### 🚀 Featured Systems &amp; Projects
 
 <table>
   <tr>
@@ -53,7 +53,7 @@
       <h3><a href="https://github.com/yashsahu0212/Yash-Sahu_25BCE10051_IPL_Auction">IPL Live Auction Engine</a></h3>
       <p>Synchronized real-time multiplayer bidding platform built for the VITB MUN event. Implements sub-second bid arbitration, live room state distribution, and transactional PostgreSQL state locking under concurrent loads.</p>
       <p>
-        <code>Node.js</code> <code>WebSockets</code> <code>PostgreSQL</code> <code>Docker</code>
+        <code>Node.js</code> <code>Socket.io</code> <code>PostgreSQL</code> <code>Docker</code>
       </p>
       <a href="https://github.com/yashsahu0212/Yash-Sahu_25BCE10051_IPL_Auction">Explore Architecture &rarr;</a>
     </td>
@@ -73,7 +73,7 @@
       <h3><a href="https://github.com/yashsahu0212/Stock-Flow">Stock-Flow</a></h3>
       <p>Dual-role warehouse inventory management platform. Streamlines fast physical item discovery and bin location tracking for floor staff while providing live inventory turnover analytics for operations.</p>
       <p>
-        <code>TypeScript</code> <code>PostgreSQL</code> <code>Docker</code> <code>RESTful API</code>
+        <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Docker</code>
       </p>
       <a href="https://github.com/yashsahu0212/Stock-Flow">Explore Architecture &rarr;</a>
     </td>
@@ -96,7 +96,7 @@
 </div>
 
 <p>
-  I write technical breakdowns covering distributed systems, real-time concurrency, and mobile sensor fusion algorithms.
+  I write technical breakdowns covering distributed systems, real-time concurrency, and mobile sensor telemetry.
 </p>
 
 <br>
@@ -121,7 +121,7 @@
 
 ### 💼 Employer or Recruiter?
 > [!IMPORTANT]
-> **Actively exploring Software Engineering Internships and Full-Time Roles.**  
+> **Actively exploring Software Engineering Internships and Roles.**  
 > 📄 <a href="https://drive.google.com/your-resume-link-here" target="_blank"><b>Download my Resume / CV</b></a> &bull; ✉️ <a href="mailto:yashsahu0212@gmail.com"><b>Direct Email (yashsahu0212@gmail.com)</b></a> &bull; 🤝 <a href="https://www.linkedin.com/in/yashsahu0212/" target="_blank"><b>Connect on LinkedIn</b></a>
 
 <br>

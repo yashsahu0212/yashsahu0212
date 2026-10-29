@@ -73,16 +73,16 @@
       <tspan class="key">"name"</tspan><tspan class="punc">: </tspan><tspan class="str">"Yash Sahu"</tspan><tspan class="punc">,</tspan>
     </text>
     <text x="16" y="68">
-      <tspan class="key">"role"</tspan><tspan class="punc">: </tspan><tspan class="str">"Full-Stack &amp; Systems Engineer"</tspan><tspan class="punc">,</tspan>
+      <tspan class="key">"role"</tspan><tspan class="punc">: </tspan><tspan class="str">"Full-Stack &amp; Systems Developer"</tspan><tspan class="punc">,</tspan>
     </text>
     <text x="16" y="90">
       <tspan class="key">"education"</tspan><tspan class="punc">: </tspan><tspan class="str">"B.Tech in CSE @ VIT Bhopal University"</tspan><tspan class="punc">,</tspan>
     </text>
     <text x="16" y="112">
-      <tspan class="key">"focus"</tspan><tspan class="punc">: [</tspan><tspan class="arr">"Real-Time Concurrency"</tspan><tspan class="punc">, </tspan><tspan class="arr">"Sensor Telemetry"</tspan><tspan class="punc">, </tspan><tspan class="arr">"Distributed State"</tspan><tspan class="punc">],</tspan>
+      <tspan class="key">"languages"</tspan><tspan class="punc">: [</tspan><tspan class="arr">"JavaScript"</tspan><tspan class="punc">, </tspan><tspan class="arr">"TypeScript"</tspan><tspan class="punc">, </tspan><tspan class="arr">"Python"</tspan><tspan class="punc">, </tspan><tspan class="arr">"Kotlin"</tspan><tspan class="punc">],</tspan>
     </text>
     <text x="16" y="134">
-      <tspan class="key">"core_stack"</tspan><tspan class="punc">: [</tspan><tspan class="arr">"TypeScript"</tspan><tspan class="punc">, </tspan><tspan class="arr">"Node.js"</tspan><tspan class="punc">, </tspan><tspan class="arr">"PostgreSQL"</tspan><tspan class="punc">, </tspan><tspan class="arr">"Kotlin"</tspan><tspan class="punc">, </tspan><tspan class="arr">"Docker"</tspan><tspan class="punc">],</tspan>
+      <tspan class="key">"technologies"</tspan><tspan class="punc">: [</tspan><tspan class="arr">"React"</tspan><tspan class="punc">, </tspan><tspan class="arr">"Node.js"</tspan><tspan class="punc">, </tspan><tspan class="arr">"Express"</tspan><tspan class="punc">, </tspan><tspan class="arr">"PostgreSQL"</tspan><tspan class="punc">, </tspan><tspan class="arr">"Docker"</tspan><tspan class="punc">],</tspan>
     </text>
     <text x="16" y="156">
       <tspan class="key">"status"</tspan><tspan class="punc">: </tspan><tspan class="str">"Open to Software Engineering Internships &amp; Roles"</tspan><tspan class="punc">,</tspan>
