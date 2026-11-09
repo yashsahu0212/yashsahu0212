@@ -1,56 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Engineering Activity and System Metrics">
-<title>Engineering Activity and System Metrics</title>
-<rect width="1000" height="220" rx="8" fill="#DDE9E6" stroke="#B7C9C5" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Engineering Activity and Telemetry Stream">
+<title>Engineering Activity and Telemetry Stream</title>
+<defs>
+  <linearGradient id="waveGradLight" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#C2410C" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#DDE9E6" stop-opacity="0.0"/>
+  </linearGradient>
+  <pattern id="gridLight" width="20" height="20" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1" fill="#C5D7D3"/>
+  </pattern>
+</defs>
 
-<!-- Column 1: Development Velocity -->
-<g transform="translate(36, 32)">
-  <text x="0" y="16" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#C2410C" letter-spacing="1.5">VELOCITY &amp; FOOTPRINT</text>
-  <text x="0" y="58" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="bold" fill="#12303A">3.37M+</text>
-  <text x="0" y="82" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#2F4A52">Total Bytes Documented</text>
+<!-- Outer Container -->
+<rect width="1000" height="280" rx="10" fill="#EBF2F0" stroke="#B7C9C5" stroke-width="1.5"/>
+<rect width="1000" height="280" rx="10" fill="url(#gridLight)" opacity="0.8"/>
+
+<!-- Header Bar -->
+<rect x="0" y="0" width="1000" height="42" rx="10" fill="#DDE9E6"/>
+<rect x="0" y="32" width="1000" height="10" fill="#DDE9E6"/>
+<line x1="0" y1="42" x2="1000" y2="42" stroke="#B7C9C5" stroke-width="1"/>
+
+<circle cx="24" cy="21" r="4" fill="#1A7F37"/>
+<text x="36" y="25" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#12303A" letter-spacing="1.5">TELEMETRY MONITOR // RUNTIME: NOMINAL</text>
+<text x="976" y="25" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" fill="#587076" letter-spacing="1">CRON CADENCE: DAILY 00:20 UTC</text>
+
+<!-- Left Panel: Waveform & Velocity Frequency -->
+<g transform="translate(32, 64)">
+  <text x="0" y="14" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#C2410C" letter-spacing="1.2">ACTIVITY PULSE // WEEKLY CADENCE</text>
   
-  <text x="0" y="126" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#587076">Active Systems: <tspan fill="#12303A" font-weight="bold">12 Repositories</tspan></text>
-  <text x="0" y="150" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#587076">Workflow Cadence: <tspan fill="#C2410C" font-weight="bold">Continuous Delivery</tspan></text>
+  <!-- Waveform Area -->
+  <path d="M 0 110 Q 50 40 100 80 T 200 60 T 300 100 T 400 30 T 480 70 L 480 140 L 0 140 Z" fill="url(#waveGradLight)"/>
+  <path d="M 0 110 Q 50 40 100 80 T 200 60 T 300 100 T 400 30 T 480 70" fill="none" stroke="#C2410C" stroke-width="2.5"/>
+  
+  <!-- Waveform Nodes -->
+  <circle cx="100" cy="80" r="4" fill="#12303A" stroke="#C2410C" stroke-width="2"/>
+  <circle cx="200" cy="60" r="4" fill="#12303A" stroke="#C2410C" stroke-width="2"/>
+  <circle cx="300" cy="100" r="4" fill="#12303A" stroke="#C2410C" stroke-width="2"/>
+  <circle cx="400" cy="30" r="5" fill="#C2410C" stroke="#12303A" stroke-width="2"/>
+  <circle cx="480" cy="70" r="4" fill="#12303A" stroke="#C2410C" stroke-width="2"/>
+  
+  <!-- Day Markers -->
+  <text x="10" y="162" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10" fill="#587076">MON</text>
+  <text x="90" y="162" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10" fill="#587076">TUE</text>
+  <text x="170" y="162" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10" fill="#587076">WED</text>
+  <text x="250" y="162" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10" fill="#587076">THU</text>
+  <text x="330" y="162" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10" fill="#587076">FRI</text>
+  <text x="410" y="162" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10" font-weight="bold" fill="#C2410C">SAT (PEAK)</text>
+  <text x="460" y="162" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10" fill="#587076">SUN</text>
+  
+  <!-- Bottom Velocity Stats -->
+  <text x="0" y="196" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="bold" fill="#12303A">3.37M+ <tspan font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#2F4A52">Bytes Engineered Across 12 Repositories</tspan></text>
 </g>
 
-<!-- Divider 1 -->
-<line x1="330" y1="28" x2="330" y2="192" stroke="#B7C9C5" stroke-width="1.5"/>
+<!-- Vertical Center Divider -->
+<line x1="560" y1="58" x2="560" y2="262" stroke="#B7C9C5" stroke-width="1.5"/>
 
-<!-- Column 2: Architectural Distribution -->
-<g transform="translate(366, 32)">
-  <text x="0" y="16" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#C2410C" letter-spacing="1.5">STACK COMPOSITION</text>
+<!-- Right Panel: Architectural Telemetry Stream -->
+<g transform="translate(590, 64)">
+  <text x="0" y="14" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#C2410C" letter-spacing="1.2">SYSTEM CADENCE &amp; TELEMETRY</text>
   
-  <!-- Bar 1: HTML & CSS -->
-  <text x="0" y="50" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#2F4A52">Interface Markup (HTML/CSS)</text>
-  <text x="260" y="50" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#12303A">42.6%</text>
-  <rect x="0" y="58" width="260" height="6" rx="3" fill="#C5D7D3"/>
-  <rect x="0" y="58" width="111" height="6" rx="3" fill="#E34C26"/>
+  <!-- Item 1: Concurrency Engine -->
+  <g transform="translate(0, 36)">
+    <rect x="0" y="0" width="378" height="42" rx="4" fill="#DDE9E6" stroke="#C5D7D3"/>
+    <text x="14" y="18" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#12303A">IPL Live Auction Engine</text>
+    <text x="14" y="32" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10" fill="#587076">Real-time multiplayer socket room arbitration &amp; concurrency</text>
+    <text x="364" y="25" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10" font-weight="bold" fill="#C2410C">VERIFIED</text>
+  </g>
   
-  <!-- Bar 2: JavaScript & TypeScript -->
-  <text x="0" y="88" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#2F4A52">Application Logic (JS/TS)</text>
-  <text x="260" y="88" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#12303A">40.0%</text>
-  <rect x="0" y="96" width="260" height="6" rx="3" fill="#C5D7D3"/>
-  <rect x="0" y="96" width="104" height="6" rx="3" fill="#D4A700"/>
+  <!-- Item 2: Mobile Sensor Telemetry -->
+  <g transform="translate(0, 86)">
+    <rect x="0" y="0" width="378" height="42" rx="4" fill="#DDE9E6" stroke="#C5D7D3"/>
+    <text x="14" y="18" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#12303A">Yatra Telemetry &amp; Mobility</text>
+    <text x="14" y="32" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10" fill="#587076">High-frequency sensor fusion &amp; spatio-temporal trip inference</text>
+    <text x="364" y="25" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10" font-weight="bold" fill="#7F52FF">ACTIVE</text>
+  </g>
   
-  <!-- Bar 3: Kotlin Mobile & Systems -->
-  <text x="0" y="126" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#2F4A52">Mobile &amp; Data (Kotlin/SQL/Py)</text>
-  <text x="260" y="126" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#12303A">17.4%</text>
-  <rect x="0" y="134" width="260" height="6" rx="3" fill="#C5D7D3"/>
-  <rect x="0" y="134" width="45" height="6" rx="3" fill="#7F52FF"/>
-</g>
-
-<!-- Divider 2 -->
-<line x1="660" y1="28" x2="660" y2="192" stroke="#B7C9C5" stroke-width="1.5"/>
-
-<!-- Column 3: Telemetry Engine -->
-<g transform="translate(696, 32)">
-  <text x="0" y="16" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#C2410C" letter-spacing="1.5">SYSTEM TELEMETRY</text>
-  
-  <rect x="0" y="38" width="268" height="34" rx="4" fill="#CFDDD9" stroke="#B7C9C5"/>
-  <circle cx="16" cy="55" r="5" fill="#1A7F37"/>
-  <text x="30" y="59" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#12303A">GitHub Actions Cron: <tspan font-weight="bold">Active</tspan></text>
-  
-  <text x="0" y="104" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#587076">Nightly Koi Routine: <tspan fill="#12303A" font-weight="bold">00:20 UTC</tspan></text>
-  <text x="0" y="128" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#587076">Telemetry Pipeline: <tspan fill="#12303A" font-weight="bold">git-koi v1</tspan></text>
-  <text x="0" y="152" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#587076">Snapshot Integrity: <tspan fill="#C2410C" font-weight="bold">100% Verified</tspan></text>
+  <!-- Item 3: Automated Growth Engine -->
+  <g transform="translate(0, 136)">
+    <rect x="0" y="0" width="378" height="42" rx="4" fill="#DDE9E6" stroke="#C5D7D3"/>
+    <text x="14" y="18" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#12303A">Git-Koi Generative Growth</text>
+    <text x="14" y="32" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10" fill="#587076">Autonomous nightly pipeline re-synthesizing contribution pond</text>
+    <text x="364" y="25" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10" font-weight="bold" fill="#1A7F37">00:20 UTC</text>
+  </g>
 </g>
 </svg>
