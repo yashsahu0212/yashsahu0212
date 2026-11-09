@@ -1,4 +1,4 @@
-# Draws the koi for README.md every night.
+# Draws the koi shown in README.md every night.
 name: Koi
 
 on:
@@ -18,10 +18,11 @@ jobs:
   koi:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@v4
       - uses: yalongwastaken/git-koi@v1
         with:
-          body: white
+          # Choices: white, black, asagi, tea, gold, platinum
+          body: gold
           output-dir: koi
       - name: Commit the koi if it changed
         shell: bash

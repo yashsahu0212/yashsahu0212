@@ -1,139 +1,133 @@
-<!--
-    Hey there, I'm Yash Sahu!
-    Happy to see you here exploring my GitHub profile.
-    Feel free to explore my repositories, systems architectures, and open source work.
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Yash Sahu - UI/UX Designer and Full-Stack Developer" width="100%">
+</picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:38bdf8&height=140&section=header" alt="header"/>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-about-dark.svg">
+  <img src="assets/h-about-light.svg" alt="About" width="100%">
+</picture>
+
+I am a UI/UX designer and full-stack software engineer focused on building clean, high-utility digital interfaces and robust web architectures. I work across the design spectrum from user research and design systems in Figma to accessible frontends and real-time backend systems.
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-koi-dark.svg">
+  <img src="assets/h-koi-light.svg" alt="Git-Koi Pond" width="100%">
+</picture>
+
+<p align="center">
+  <img src="koi/koi.gif" width="320" alt="Generative pixel-art koi drawn from public GitHub activity">
+</p>
+
+<p align="center">
+  <em>Generative pixel koi rendered dynamically from GitHub contribution telemetry by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>.<br>Its pigmentation maps directly to repository language distribution, and its body scales with contribution volume.</em>
+</p>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-projects-dark.svg">
+  <img src="assets/h-projects-light.svg" alt="Projects" width="100%">
+</picture>
+
+<a href="https://github.com/yashsahu0212/Yash-Sahu_25BCE10051_IPL_Auction">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/p-ipl-dark.svg">
+    <img src="assets/p-ipl-light.svg" alt="IPL Auction Engine" width="100%">
+  </picture>
+</a>
+
+<a href="https://github.com/yashsahu0212/Portfolio-Yash">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/p-portfolio-dark.svg">
+    <img src="assets/p-portfolio-light.svg" alt="Personal Portfolio" width="100%">
+  </picture>
+</a>
+
+<a href="https://github.com/yashsahu0212/Yatra">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/p-yatra-dark.svg">
+    <img src="assets/p-yatra-light.svg" alt="Yatra Telemetry and Mobility" width="100%">
+  </picture>
+</a>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-skills-dark.svg">
+  <img src="assets/h-skills-light.svg" alt="Skills" width="100%">
+</picture>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=38BDF8&center=true&vCenter=true&width=580&lines=Hi%2C+I'm+Yash+Sahu+%F0%9F%91%8B;Full-Stack+%26+Systems+Developer;Building+Real-Time+%26+Mobile+Systems;Computer+Science+%40+VIT+Bhopal" alt="Yash Sahu - Engineering Focus" />
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,py,kotlin,react,nodejs,express,postgres,git,github,vscode,docker,androidstudio,postman&perline=9&theme=dark">
+      <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,py,kotlin,react,nodejs,express,postgres,git,github,vscode,docker,androidstudio,postman&perline=9&theme=light" alt="Languages and Technologies">
+    </picture>
   </a>
 </div>
 
 <br>
 
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
-
-<div align="center">
-  <img src="assets/terminal.svg" alt="About Yash Sahu Terminal Session" width="100%"/>
-</div>
-
-<br>
-
-### 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=js,ts,py,kotlin,html,css,postgres)](https://skillicons.dev)
-
-### ⚛️ Frameworks &amp; Libraries
-[![Frameworks](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,prisma,supabase,vite)](https://skillicons.dev)
-
-### 🛠️ Tools &amp; Platforms
-[![Tools](https://skillicons.dev/icons?i=androidstudio,docker,git,github,vscode,postman,vercel)](https://skillicons.dev)
-
-<br>
-
-### 🚀 Featured Systems &amp; Projects
-
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <sub><b>01 // SENSOR TELEMETRY &amp; MOBILE</b></sub><br>
-      <h3><a href="https://github.com/yashsahu0212/Yatra">Yatra</a></h3>
-      <p>Smartphone telemetry application engineered to capture high-frequency motion and GPS sensor streams. Implements automated trip start/end detection, mode-of-transit inference, and spatio-temporal trip chain reconstruction.</p>
-      <p>
-        <code>Kotlin</code> <code>Android SDK</code> <code>Sensor Fusion</code> <code>GPS Telemetry</code>
-      </p>
-      <a href="https://github.com/yashsahu0212/Yatra">Explore Architecture &rarr;</a>
-    </td>
-    <td width="50%" valign="top">
-      <sub><b>02 // REAL-TIME CONCURRENCY</b></sub><br>
-      <h3><a href="https://github.com/yashsahu0212/Yash-Sahu_25BCE10051_IPL_Auction">IPL Live Auction Engine</a></h3>
-      <p>Synchronized real-time multiplayer bidding platform built for the VITB MUN event. Implements sub-second bid arbitration, live room state distribution, and transactional PostgreSQL state locking under concurrent loads.</p>
-      <p>
-        <code>Node.js</code> <code>Socket.io</code> <code>PostgreSQL</code> <code>Docker</code>
-      </p>
-      <a href="https://github.com/yashsahu0212/Yash-Sahu_25BCE10051_IPL_Auction">Explore Architecture &rarr;</a>
-    </td>
+    <td width="28%"><strong>Design &amp; Interface</strong></td>
+    <td>Figma, Design Systems, Wireframing, User Interface Design, Responsive Layouts, Semantic HTML5, CSS3, Tailwind CSS</td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <sub><b>03 // INTELLIGENT PIPELINES</b></sub><br>
-      <h3><a href="https://github.com/yashsahu0212/FeedBox-AI">FeedBox AI</a></h3>
-      <p>Automated feedback ingestion and telemetry analysis system. Parses unstructured customer commentary streams, applies NLP sentiment classification, and categorizes qualitative feedback into structured product insights.</p>
-      <p>
-        <code>JavaScript</code> <code>NLP / AI Integration</code> <code>PostgreSQL</code> <code>Express</code>
-      </p>
-      <a href="https://github.com/yashsahu0212/FeedBox-AI">Explore Architecture &rarr;</a>
-    </td>
-    <td width="50%" valign="top">
-      <sub><b>04 // WAREHOUSE LOGISTICS</b></sub><br>
-      <h3><a href="https://github.com/yashsahu0212/Stock-Flow">Stock-Flow</a></h3>
-      <p>Dual-role warehouse inventory management platform. Streamlines fast physical item discovery and bin location tracking for floor staff while providing live inventory turnover analytics for operations.</p>
-      <p>
-        <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Docker</code>
-      </p>
-      <a href="https://github.com/yashsahu0212/Stock-Flow">Explore Architecture &rarr;</a>
-    </td>
+    <td><strong>Core Languages</strong></td>
+    <td>JavaScript (ESNext), TypeScript, Python, Kotlin, SQL (PostgreSQL)</td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks &amp; Runtime</strong></td>
+    <td>React, Node.js, Express, REST APIs, Socket.io Real-Time Synchronization</td>
+  </tr>
+  <tr>
+    <td><strong>Tooling &amp; Infrastructure</strong></td>
+    <td>Git, GitHub Actions, Docker, Android Studio, VS Code, Postman</td>
   </tr>
 </table>
 
 <br>
 
-### ✍️ Publications &amp; Technical Writing
-<div>
-  <a href="https://medium.com/@yashsahu0212" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://dev.to/yashsahu0212" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://leetcode.com/u/yashsahu0212" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</div>
-
-<p>
-  I write technical breakdowns covering distributed systems, real-time concurrency, and mobile sensor telemetry.
-</p>
-
-<br>
-
-### 🌐 Connect with me!
-<div>
-  <a href="https://www.linkedin.com/in/yashsahu0212/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/yashsahu0212" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:yashsahu0212@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/yashsahu0212/Portfolio-Yash" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<br>
-
-### 💼 Employer or Recruiter?
-> [!IMPORTANT]
-> **Actively exploring Software Engineering Internships and Roles.**  
-> 📄 <a href="https://drive.google.com/your-resume-link-here" target="_blank"><b>Download my Resume / CV</b></a> &bull; ✉️ <a href="mailto:yashsahu0212@gmail.com"><b>Direct Email (yashsahu0212@gmail.com)</b></a> &bull; 🤝 <a href="https://www.linkedin.com/in/yashsahu0212/" target="_blank"><b>Connect on LinkedIn</b></a>
-
-<br>
-
-### 📈 Contribution Timeline
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-activity-dark.svg">
+  <img src="assets/h-activity-light.svg" alt="Activity" width="100%">
+</picture>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashsahu0212/yashsahu0212/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashsahu0212/yashsahu0212/output/github-snake.svg">
-    <img alt="Contribution Activity Snake" src="https://raw.githubusercontent.com/yashsahu0212/yashsahu0212/output/github-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=yashsahu0212&background=12303A&ring=FF8A4C&fire=FF8A4C&currStreakLabel=FF8A4C&border=2A4A52&stroke=2A4A52&dates=C7D8D3&sideLabels=C7D8D3&currStreakNum=EAF2EF&sideNums=EAF2EF">
+    <img src="https://streak-stats.demolab.com/?user=yashsahu0212&background=DDE9E6&ring=C2410C&fire=C2410C&currStreakLabel=C2410C&border=9DBAB4&stroke=9DBAB4&dates=2F4A52&sideLabels=2F4A52&currStreakNum=12303A&sideNums=12303A" alt="Contribution Streak Telemetry">
   </picture>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:38bdf8&height=120&section=footer" alt="footer"/>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-contact-dark.svg">
+  <img src="assets/h-contact-light.svg" alt="Contact" width="100%">
+</picture>
+
+<table>
+  <tr>
+    <td width="20%"><strong>LinkedIn</strong></td>
+    <td><a href="https://www.linkedin.com/in/yashsahu0212/">linkedin.com/in/yashsahu0212</a></td>
+  </tr>
+  <tr>
+    <td><strong>GitHub</strong></td>
+    <td><a href="https://github.com/yashsahu0212">github.com/yashsahu0212</a></td>
+  </tr>
+  <tr>
+    <td><strong>Email</strong></td>
+    <td><a href="mailto:yashsahu0212@gmail.com">yashsahu0212@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>Portfolio</strong></td>
+    <td><a href="https://github.com/yashsahu0212/Portfolio-Yash">github.com/yashsahu0212/Portfolio-Yash</a></td>
+  </tr>
+</table>

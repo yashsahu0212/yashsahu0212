@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130" role="img" aria-label="Yatra Telemetry &amp; Mobility"><title>Yatra Telemetry &amp; Mobility</title>
+<text x="0" y="48" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="bold" fill="#12303A">Yatra Telemetry &amp; Mobility</text>
+<text x="1000" y="46" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#C2410C">View Repository &#8599;</text>
+<text x="0" y="80" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#2F4A52">Mobile sensor telemetry application capturing movement data for automated trip inference and journey mapping.</text>
+<text x="0" y="106" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#587076">Stack: Kotlin, Android SDK, Sensor Telemetry, JavaScript</text>
+<rect x="0" y="129" width="1000" height="1" fill="#B7C9C5"/>
+</svg>
