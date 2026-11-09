@@ -16,14 +16,14 @@ I am a UI/UX designer and full-stack software engineer focused on building clean
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/h-koi-dark.svg">
-  <img src="assets/h-koi-light.svg" alt="Git-Koi Pond" width="100%">
+  <img src="assets/h-koi-light.svg" alt="Contribution Telemetry" width="100%">
 </picture>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" style="padding: 20px;">
-        <img src="koi/koi.gif" width="540" style="image-rendering: pixelated; image-rendering: crisp-edges;" alt="Generative pixel-art koi drawn from public GitHub activity">
+        <img src="koi/koi.gif" width="540" style="image-rendering: pixelated; image-rendering: crisp-edges;" alt="Generative code telemetry animation">
       </td>
     </tr>
     <tr>
@@ -35,7 +35,7 @@ I am a UI/UX designer and full-stack software engineer focused on building clean
 </div>
 
 <p align="center">
-  <em>Generative pixel koi rendered dynamically from GitHub contribution telemetry by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>.<br>Its scale expands as contributions accumulate over time, and its patterns are dyed according to repository language distribution.</em>
+  <em>Dynamic generative visual synthesized directly from GitHub contribution telemetry.<br>Its form expands with cumulative commit frequency, dyed according to active repository language frequency.</em>
 </p>
 
 <br>
@@ -46,7 +46,7 @@ I am a UI/UX designer and full-stack software engineer focused on building clean
 </picture>
 
 <p>
-  Official language coloration applied across the koi anatomy based on code volume across all public repositories:
+  Official language coloration applied across the visual anatomy based on code volume across all public repositories:
 </p>
 
 <div align="center">
@@ -56,7 +56,7 @@ I am a UI/UX designer and full-stack software engineer focused on building clean
         <th align="center">Color Swatch</th>
         <th align="left">Color Name</th>
         <th align="left">Associated Language</th>
-        <th align="left">Koi Fish Anatomy</th>
+        <th align="left">Fish Anatomy Mapping</th>
         <th align="right">Codebase Share</th>
       </tr>
     </thead>
@@ -223,10 +223,23 @@ I am a UI/UX designer and full-stack software engineer focused on building clean
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-    <img src="assets/activity-light.svg" alt="Engineering Activity and System Metrics" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashsahu0212&theme=solarized_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashsahu0212&theme=solarized" alt="Live Contribution Profile Telemetry" width="100%">
   </picture>
 </div>
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashsahu0212&theme=solarized_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashsahu0212&theme=solarized" alt="Live Repository Stats" height="175">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashsahu0212&theme=solarized_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashsahu0212&theme=solarized" alt="Live Language Telemetry" height="175">
+  </picture>
+</p>
 
 <br>
 
