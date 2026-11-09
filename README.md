@@ -19,13 +19,98 @@ I am a UI/UX designer and full-stack software engineer focused on building clean
   <img src="assets/h-koi-light.svg" alt="Git-Koi Pond" width="100%">
 </picture>
 
-<p align="center">
-  <img src="koi/koi.gif" width="320" alt="Generative pixel-art koi drawn from public GitHub activity">
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <img src="koi/koi.gif" width="540" style="image-rendering: pixelated; image-rendering: crisp-edges;" alt="Generative pixel-art koi drawn from public GitHub activity">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <sub><strong>TELEMETRY STATUS: LIVE</strong> &bull; <strong>GROWTH ENGINE: COMMIT VOLUME</strong> &bull; <strong>BASE COAT: GOLD</strong></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
-  <em>Generative pixel koi rendered dynamically from GitHub contribution telemetry by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>.<br>Its pigmentation maps directly to repository language distribution, and its body scales with contribution volume.</em>
+  <em>Generative pixel koi rendered dynamically from GitHub contribution telemetry by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>.<br>Its scale expands as contributions accumulate over time, and its patterns are dyed according to repository language distribution.</em>
 </p>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-legend-dark.svg">
+  <img src="assets/h-legend-light.svg" alt="Color & Language Telemetry" width="100%">
+</picture>
+
+<p>
+  GitHub Linguist maps official hex colors to languages across public repositories. The table below outlines how each color dyes the koi anatomy:
+</p>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Color Swatch</th>
+        <th align="center">Hex Code</th>
+        <th align="left">Language &amp; Koi Anatomy</th>
+        <th align="right">Telemetry Share</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><img src="https://img.shields.io/badge/-%23FFB800-FFB800?style=flat-square" alt="Gold"></td>
+        <td align="center"><code>#FFB800</code></td>
+        <td><strong>Gold</strong> &bull; Base Body, Fins &amp; Tail (Primary Coat)</td>
+        <td align="right">Anchor Tone</td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://img.shields.io/badge/-%23E34C26-E34C26?style=flat-square" alt="Red-Orange"></td>
+        <td align="center"><code>#E34C26</code></td>
+        <td><strong>HTML</strong> &bull; Dorsal Plates &amp; Primary Scales</td>
+        <td align="right">39.6%</td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://img.shields.io/badge/-%23F1E05A-F1E05A?style=flat-square" alt="Amber Yellow"></td>
+        <td align="center"><code>#F1E05A</code></td>
+        <td><strong>JavaScript</strong> &bull; Lateral Scale Accents</td>
+        <td align="right">26.7%</td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://img.shields.io/badge/-%233178C6-3178C6?style=flat-square" alt="Azure Blue"></td>
+        <td align="center"><code>#3178C6</code></td>
+        <td><strong>TypeScript</strong> &bull; Head Crest &amp; Spine Markings</td>
+        <td align="right">13.3%</td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://img.shields.io/badge/-%23A97BFF-A97BFF?style=flat-square" alt="Purple"></td>
+        <td align="center"><code>#A97BFF</code></td>
+        <td><strong>Kotlin</strong> &bull; Caudal Fin Highlights</td>
+        <td align="right">11.9%</td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://img.shields.io/badge/-%23336790-336790?style=flat-square" alt="Steel Blue"></td>
+        <td align="center"><code>#336790</code></td>
+        <td><strong>PostgreSQL / PLpgSQL</strong> &bull; Ventral Patterning</td>
+        <td align="right">5.0%</td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://img.shields.io/badge/-%23563D7C-563D7C?style=flat-square" alt="Violet"></td>
+        <td align="center"><code>#563D7C</code></td>
+        <td><strong>CSS</strong> &bull; Fin Edge Contours</td>
+        <td align="right">3.0%</td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://img.shields.io/badge/-%233572A5-3572A5?style=flat-square" alt="Royal Blue"></td>
+        <td align="center"><code>#3572A5</code></td>
+        <td><strong>Python</strong> &bull; Barbels &amp; Micro-Flecking</td>
+        <td align="right">0.5%</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <br>
 
@@ -64,10 +149,7 @@ I am a UI/UX designer and full-stack software engineer focused on building clean
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,py,kotlin,react,nodejs,express,postgres,git,github,vscode,docker,androidstudio,postman&perline=9&theme=dark">
-      <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,py,kotlin,react,nodejs,express,postgres,git,github,vscode,docker,androidstudio,postman&perline=9&theme=light" alt="Languages and Technologies">
-    </picture>
+    <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,ts,py,kotlin,react,nextjs,nodejs,express,postgres,supabase,prisma,vercel,docker,git,github,vscode,androidstudio,postman&perline=11&theme=dark" alt="Languages and Technologies Dock">
   </a>
 </div>
 
@@ -75,20 +157,51 @@ I am a UI/UX designer and full-stack software engineer focused on building clean
 
 <table>
   <tr>
-    <td width="28%"><strong>Design &amp; Interface</strong></td>
-    <td>Figma, Design Systems, Wireframing, User Interface Design, Responsive Layouts, Semantic HTML5, CSS3, Tailwind CSS</td>
+    <td width="26%" valign="middle"><strong>Design &amp; Interface</strong></td>
+    <td valign="middle">
+      <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></a>
+      <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
+    </td>
   </tr>
   <tr>
-    <td><strong>Core Languages</strong></td>
-    <td>JavaScript (ESNext), TypeScript, Python, Kotlin, SQL (PostgreSQL)</td>
+    <td valign="middle"><strong>Core Languages</strong></td>
+    <td valign="middle">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+      <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+      <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+      <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
+      <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+    </td>
   </tr>
   <tr>
-    <td><strong>Frameworks &amp; Runtime</strong></td>
-    <td>React, Node.js, Express, REST APIs, Socket.io Real-Time Synchronization</td>
+    <td valign="middle"><strong>Frameworks &amp; Runtime</strong></td>
+    <td valign="middle">
+      <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /></a>
+      <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+      <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+      <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /></a>
+      <a href="https://prisma.io/"><img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /></a>
+    </td>
   </tr>
   <tr>
-    <td><strong>Tooling &amp; Infrastructure</strong></td>
-    <td>Git, GitHub Actions, Docker, Android Studio, VS Code, Postman</td>
+    <td valign="middle"><strong>Cloud &amp; Databases</strong></td>
+    <td valign="middle">
+      <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /></a>
+      <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /></a>
+      <a href="https://docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><strong>Tools &amp; Environment</strong></td>
+    <td valign="middle">
+      <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
+      <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+      <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" /></a>
+      <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
+      <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" /></a>
+    </td>
   </tr>
 </table>
 
