@@ -46,66 +46,75 @@ I am a UI/UX designer and full-stack software engineer focused on building clean
 </picture>
 
 <p>
-  GitHub Linguist maps official hex colors to languages across public repositories. The table below outlines how each color dyes the koi anatomy:
+  Official language coloration applied across the koi anatomy based on code volume across all public repositories:
 </p>
 
 <div align="center">
   <table>
     <thead>
       <tr>
-        <th align="center">Color Swatch</th>
-        <th align="center">Hex Code</th>
-        <th align="left">Language &amp; Koi Anatomy</th>
-        <th align="right">Telemetry Share</th>
+        <th align="center">Color</th>
+        <th align="left">Color Name</th>
+        <th align="left">Associated Language</th>
+        <th align="left">Koi Fish Anatomy</th>
+        <th align="right">Codebase Share</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td align="center"><img src="https://img.shields.io/badge/-%23FFB800-FFB800?style=flat-square" alt="Gold"></td>
-        <td align="center"><code>#FFB800</code></td>
-        <td><strong>Gold</strong> &bull; Base Body, Fins &amp; Tail (Primary Coat)</td>
+        <td><strong>Gold</strong></td>
+        <td>Base Model</td>
+        <td>Body, Fins &amp; Tail (Primary Coat)</td>
         <td align="right">Anchor Tone</td>
       </tr>
       <tr>
         <td align="center"><img src="https://img.shields.io/badge/-%23E34C26-E34C26?style=flat-square" alt="Red-Orange"></td>
-        <td align="center"><code>#E34C26</code></td>
-        <td><strong>HTML</strong> &bull; Dorsal Plates &amp; Primary Scales</td>
+        <td><strong>Red-Orange</strong></td>
+        <td>HTML</td>
+        <td>Dorsal Scales &amp; Body Plates</td>
         <td align="right">39.6%</td>
       </tr>
       <tr>
-        <td align="center"><img src="https://img.shields.io/badge/-%23F1E05A-F1E05A?style=flat-square" alt="Amber Yellow"></td>
-        <td align="center"><code>#F1E05A</code></td>
-        <td><strong>JavaScript</strong> &bull; Lateral Scale Accents</td>
+        <td align="center"><img src="https://img.shields.io/badge/-%23F1E05A-F1E05A?style=flat-square" alt="Warm Yellow"></td>
+        <td><strong>Warm Yellow</strong></td>
+        <td>JavaScript</td>
+        <td>Lateral Scales &amp; Shimmer Accents</td>
         <td align="right">26.7%</td>
       </tr>
       <tr>
         <td align="center"><img src="https://img.shields.io/badge/-%233178C6-3178C6?style=flat-square" alt="Azure Blue"></td>
-        <td align="center"><code>#3178C6</code></td>
-        <td><strong>TypeScript</strong> &bull; Head Crest &amp; Spine Markings</td>
+        <td><strong>Azure Blue</strong></td>
+        <td>TypeScript</td>
+        <td>Head Crest &amp; Spine Markings</td>
         <td align="right">13.3%</td>
       </tr>
       <tr>
-        <td align="center"><img src="https://img.shields.io/badge/-%23A97BFF-A97BFF?style=flat-square" alt="Purple"></td>
-        <td align="center"><code>#A97BFF</code></td>
-        <td><strong>Kotlin</strong> &bull; Caudal Fin Highlights</td>
+        <td align="center"><img src="https://img.shields.io/badge/-%23A97BFF-A97BFF?style=flat-square" alt="Violet Purple"></td>
+        <td><strong>Violet Purple</strong></td>
+        <td>Kotlin</td>
+        <td>Caudal Fin Highlights &amp; Tail Rays</td>
         <td align="right">11.9%</td>
       </tr>
       <tr>
         <td align="center"><img src="https://img.shields.io/badge/-%23336790-336790?style=flat-square" alt="Steel Blue"></td>
-        <td align="center"><code>#336790</code></td>
-        <td><strong>PostgreSQL / PLpgSQL</strong> &bull; Ventral Patterning</td>
+        <td><strong>Steel Blue</strong></td>
+        <td>PostgreSQL / SQL</td>
+        <td>Ventral Scale Markings</td>
         <td align="right">5.0%</td>
       </tr>
       <tr>
-        <td align="center"><img src="https://img.shields.io/badge/-%23563D7C-563D7C?style=flat-square" alt="Violet"></td>
-        <td align="center"><code>#563D7C</code></td>
-        <td><strong>CSS</strong> &bull; Fin Edge Contours</td>
+        <td align="center"><img src="https://img.shields.io/badge/-%23563D7C-563D7C?style=flat-square" alt="Deep Indigo"></td>
+        <td><strong>Deep Indigo</strong></td>
+        <td>CSS</td>
+        <td>Fin Edge Contours</td>
         <td align="right">3.0%</td>
       </tr>
       <tr>
         <td align="center"><img src="https://img.shields.io/badge/-%233572A5-3572A5?style=flat-square" alt="Royal Blue"></td>
-        <td align="center"><code>#3572A5</code></td>
-        <td><strong>Python</strong> &bull; Barbels &amp; Micro-Flecking</td>
+        <td><strong>Royal Blue</strong></td>
+        <td>Python</td>
+        <td>Barbels &amp; Micro-Flecking</td>
         <td align="right">0.5%</td>
       </tr>
     </tbody>
@@ -214,8 +223,18 @@ I am a UI/UX designer and full-stack software engineer focused on building clean
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=yashsahu0212&background=12303A&ring=FF8A4C&fire=FF8A4C&currStreakLabel=FF8A4C&border=2A4A52&stroke=2A4A52&dates=C7D8D3&sideLabels=C7D8D3&currStreakNum=EAF2EF&sideNums=EAF2EF">
-    <img src="https://streak-stats.demolab.com/?user=yashsahu0212&background=DDE9E6&ring=C2410C&fire=C2410C&currStreakLabel=C2410C&border=9DBAB4&stroke=9DBAB4&dates=2F4A52&sideLabels=2F4A52&currStreakNum=12303A&sideNums=12303A" alt="Contribution Streak Telemetry">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+    <img src="assets/activity-light.svg" alt="Engineering Activity and System Metrics" width="100%">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashsahu0212/yashsahu0212/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashsahu0212/yashsahu0212/output/github-snake.svg">
+    <img alt="Interactive Contribution Snake Timeline" src="https://raw.githubusercontent.com/yashsahu0212/yashsahu0212/output/github-snake-dark.svg" width="100%">
   </picture>
 </div>
 
