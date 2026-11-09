@@ -223,8 +223,8 @@ I am a UI/UX designer and full-stack software engineer focused on building clean
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashsahu0212&theme=solarized_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashsahu0212&theme=solarized" alt="Live Contribution Profile Telemetry" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashsahu0212&bg_color=00000000&border_color=00000000&chart_color=10b981&title_color=eaf2ef&text_color=c7d8d3&icon_color=10b981">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashsahu0212&bg_color=00000000&border_color=00000000&chart_color=059669&title_color=12303a&text_color=2f4a52&icon_color=059669" alt="Live Contribution Profile Telemetry" width="100%">
   </picture>
 </div>
 
@@ -232,12 +232,12 @@ I am a UI/UX designer and full-stack software engineer focused on building clean
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashsahu0212&theme=solarized_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashsahu0212&theme=solarized" alt="Live Repository Stats" height="175">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashsahu0212&bg_color=00000000&border_color=00000000&title_color=eaf2ef&text_color=c7d8d3&icon_color=10b981">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashsahu0212&bg_color=00000000&border_color=00000000&title_color=12303a&text_color=2f4a52&icon_color=059669" alt="Live Repository Stats" height="175">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashsahu0212&theme=solarized_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashsahu0212&theme=solarized" alt="Live Language Telemetry" height="175">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashsahu0212&bg_color=00000000&border_color=00000000&chart_color=10b981&title_color=eaf2ef&text_color=c7d8d3&icon_color=10b981">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashsahu0212&bg_color=00000000&border_color=00000000&chart_color=059669&title_color=12303a&text_color=2f4a52&icon_color=059669" alt="Live Language Telemetry" height="175">
   </picture>
 </p>
 
