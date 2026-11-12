@@ -42,82 +42,23 @@ I am a UI/UX designer and full-stack software engineer focused on building clean
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/h-legend-dark.svg">
-  <img src="assets/h-legend-light.svg" alt="Color & Language Telemetry" width="100%">
+  <img src="assets/h-legend-light.svg" alt="Colour & Language Telemetry" width="100%">
 </picture>
-
-<p>
-  Official language coloration applied across the visual anatomy based on code volume across all public repositories:
-</p>
 
 <div align="center">
   <table>
-    <thead>
-      <tr>
-        <th align="center">Color Swatch</th>
-        <th align="left">Color Name</th>
-        <th align="left">Associated Language</th>
-        <th align="left">Fish Anatomy Mapping</th>
-        <th align="right">Codebase Share</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/Gold-FFB800?style=flat-square" alt="Gold"></td>
-        <td><strong>Gold</strong></td>
-        <td>Base Model</td>
-        <td>Body, Fins &amp; Tail (Primary Coat)</td>
-        <td align="right">Anchor Tone</td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/Red_Orange-E34C26?style=flat-square" alt="Red-Orange"></td>
-        <td><strong>Red-Orange</strong></td>
-        <td>HTML</td>
-        <td>Dorsal Scales &amp; Body Plates</td>
-        <td align="right">39.6%</td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/Warm_Yellow-F1E05A?style=flat-square&logoColor=black" alt="Warm Yellow"></td>
-        <td><strong>Warm Yellow</strong></td>
-        <td>JavaScript</td>
-        <td>Lateral Scales &amp; Shimmer Accents</td>
-        <td align="right">26.7%</td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/Azure_Blue-3178C6?style=flat-square" alt="Azure Blue"></td>
-        <td><strong>Azure Blue</strong></td>
-        <td>TypeScript</td>
-        <td>Head Crest &amp; Spine Markings</td>
-        <td align="right">13.3%</td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/Violet_Purple-A97BFF?style=flat-square" alt="Violet Purple"></td>
-        <td><strong>Violet Purple</strong></td>
-        <td>Kotlin</td>
-        <td>Caudal Fin Highlights &amp; Tail Rays</td>
-        <td align="right">11.9%</td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/Steel_Blue-336790?style=flat-square" alt="Steel Blue"></td>
-        <td><strong>Steel Blue</strong></td>
-        <td>PostgreSQL / SQL</td>
-        <td>Ventral Scale Markings</td>
-        <td align="right">5.0%</td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/Deep_Indigo-563D7C?style=flat-square" alt="Deep Indigo"></td>
-        <td><strong>Deep Indigo</strong></td>
-        <td>CSS</td>
-        <td>Fin Edge Contours</td>
-        <td align="right">3.0%</td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/Royal_Blue-3572A5?style=flat-square" alt="Royal Blue"></td>
-        <td><strong>Royal Blue</strong></td>
-        <td>Python</td>
-        <td>Barbels &amp; Micro-Flecking</td>
-        <td align="right">0.5%</td>
-      </tr>
-    </tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Gold-FFB800?style=flat-square" alt="Gold"><br><sub>Base Coat</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/Red_Orange-E34C26?style=flat-square" alt="Red-Orange"><br><sub>HTML &bull; 39.6%</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/Warm_Yellow-F1E05A?style=flat-square&logoColor=black" alt="Warm Yellow"><br><sub>JavaScript &bull; 26.7%</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/Azure_Blue-3178C6?style=flat-square" alt="Azure Blue"><br><sub>TypeScript &bull; 13.3%</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Violet_Purple-A97BFF?style=flat-square" alt="Violet Purple"><br><sub>Kotlin &bull; 11.9%</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/Steel_Blue-336790?style=flat-square" alt="Steel Blue"><br><sub>PostgreSQL &bull; 5.0%</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/Deep_Indigo-563D7C?style=flat-square" alt="Deep Indigo"><br><sub>CSS &bull; 3.0%</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/Royal_Blue-3572A5?style=flat-square" alt="Royal Blue"><br><sub>Python &bull; 0.5%</sub></td>
+    </tr>
   </table>
 </div>
 
